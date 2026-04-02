@@ -37,7 +37,7 @@ def main():
         clock.tick(max_frame_rate)
     return 'restart'
 
-
+# Run the game
 if __name__ == "__main__":
     exitmessage = 'restart'
     while exitmessage == 'restart':
